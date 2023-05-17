@@ -1,6 +1,5 @@
 def bubble_sort(array)
   x = array.length
-  y = array.max + 1
   sorted_array = []
 
   for i in 1..x
